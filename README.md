@@ -2,21 +2,6 @@
 说句实话有点看不上茅台这点钱了.....
 自己赚钱不如带大家一起赚钱，独乐乐不如众乐乐
 
-有需要炒股赚钱的加群吧
-
-<table id='wechat_group1'>
- <tr><td id='group_6'>
-            <img src='https://github.com/ChinaVolvocars/flutter_saas/blob/master/weichat/wx6.png?size=140'>
-            <h4 align='center'>群6</h4>
-        </td>
-          <td id='group_7'>
-            <img src="https://github.com/ChinaVolvocars/flutter_saas/blob/master/weichat/wx7.png?size=140">
-            <h4 align='center'>群7</h4>
-        </td>
-    </tr>
-</table>
-
-
 # Jd_Seckill
 请安装python 3.8 运行此项目，就不会出现各种问题了
 
@@ -144,9 +129,6 @@ windows目前已经打包完毕，请下载`jd_maotai_20210102.zip`文件，解�
 抢购是否成功通常在程序开始的一分钟内可见分晓！  
 搜索日志，出现“抢购成功，订单号xxxxx"，代表成功抢到了，务必半小时内支付订单！程序暂时不支持自动停止，需要手动STOP！  
 若两分钟还未抢购成功，基本上就是没抢到！程序暂时不支持自动停止，需要手动STOP！  
-
-## 打赏
-不用再打赏了，抢到茅台的同学请保持这份喜悦，没抢到的继续加油 :)  
 
 ## 感谢
 ##### 非常感谢原作者 https://github.com/zhou-xiaojun/jd_mask 提供的代码

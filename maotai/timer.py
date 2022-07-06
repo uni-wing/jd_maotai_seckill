@@ -55,7 +55,8 @@ class Timer(object):
         """
         #url = 'https://a.jd.com//ajax/queryServerData.html'
         url = 'https://api.m.jd.com/client.action?functionId=queryMaterialProducts&client=wh5'
-        ret = requests.get(url).text
+        #ret = requests.get(url).text
+        ret = requests.get(url,headers={"user-agent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36"}).text
         js = json.loads(ret)
         #return int(js["serverTime"])
         return int(js["currentTime2"])
